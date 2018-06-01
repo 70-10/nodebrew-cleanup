@@ -1,0 +1,17 @@
+{
+  "name": "nodebrew-cleanup",
+  "version": "0.1.0",
+  "description": "Nodebrew Cleanup versions",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "0-10/nodebrew-cleanup",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "execa": "^0.10.0"
+  }
+}
